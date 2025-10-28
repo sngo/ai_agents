@@ -1,0 +1,10 @@
+My name is Son Ngo.  I am a software engineer mostly on java related technologies but recently I am exploring to Agentic AI.
+My Agentic AI github is https://github.com/sngo/llms-practice.
+I have been working on small project in Agentic AI such as task_management, Synthetic_Data.
+I am still learning and improving my skill on AI.
+I have Google Cloud Associate Clound engineer certification.
+
+In my free time, I like to play guitar, taking landscape pictures and travel around the world.  
+I also participate in Vietnamese community to advocate for human right in Viet Nam. 
+And of course keep learning AI technologies as it moving so fast.
+
