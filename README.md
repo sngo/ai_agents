@@ -1,2 +1,2 @@
 # ai_agents
-This is ai agents excersice/projects
+This repo contain code from course [The Complete Agentic AI](https://www.udemy.com/course/the-complete-agentic-ai-engineering-course) and my work.
