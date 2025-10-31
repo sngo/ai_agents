@@ -109,3 +109,7 @@ Official Anthropic server for file operations.
 ### ✅ Recommended Solution: Self-Hosted Open Source LLM
 
 To address cost and security concerns, I **strongly recommend** deploying a dedicated server with open-source LLMs: such as Llama, DeepSeek
+
+### Todo:
+1. Add custom tool to copy image from playwright folder to specified folder
+2. Add memory to improve performance, remember cross-session, gettting smarter, etc.
